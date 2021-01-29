@@ -1,8 +1,10 @@
 package com.will;
 
-public class Day4 {
-    import java.io.*;
+import java.io.*;
 import java.util.*;
+
+public class Day4 {
+
 
     public class Person {
         private int age;
