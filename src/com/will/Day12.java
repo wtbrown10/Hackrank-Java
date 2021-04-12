@@ -65,5 +65,5 @@ public class Day12 {
         // Write your method here
     }
 
-    class Solution {
+
 }
